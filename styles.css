@@ -1,0 +1,24 @@
+body{
+   background-image: url("bb.webp") ;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+   background-size: cover;
+   font-weight: bold;
+   font-size: large;
+
+}
+h1{
+    color:  goldenrod;
+}
+button{
+    width: 150px;
+    background-color: goldenrod;
+    color: #016f32;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-radius: .3rem;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 4px;
+}
